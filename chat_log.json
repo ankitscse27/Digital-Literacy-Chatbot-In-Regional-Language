@@ -1,0 +1,8 @@
+[
+    {
+        "timestamp": "2025-08-29 21:49:07",
+        "user_query": "help",
+        "bot_response": "Here are the available commands:\n- 'info': Learn about Digital Literacy.\n- 'security': Get online security tips.\n- 'quiz': Test your knowledge.\n- 'agri': Info on agriculture schemes.\n- 'health': Info on health schemes.\n- 'skills': Info on education initiatives.\n- 'sanitation': Learn about sanitation.\n- 'emergency': Get helpline numbers.\n- 'digital_india': About the initiative.\n- 'make_in_india': About the initiative.\n- 'joke': Get a random joke.\n- 'image': Generate an image (simulation).\n- 'time': Get the current time.\n- 'date': Get today's date.\n- 'weather': Get the weather in Lucknow.\n- 'creator': See who made this chatbot.",
+        "language": "en"
+    }
+]
