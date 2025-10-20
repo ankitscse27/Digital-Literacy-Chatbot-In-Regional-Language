@@ -56,11 +56,11 @@ Ensure you have **Python 3.x** installed.
 ### Installation
 
 1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
-    ```
-2.  **Install dependencies:** The only external dependency is `TextBlob`.
+  
+    git clone [https://github.com/ankitscse27/Digital-Literacy-Chatbot-In-Regional-Language.git]
+    cd Digital-Literacy-Chatbot-In-Regional-Language
+
+    2.  **Install dependencies:** The only external dependency is `TextBlob`.
     ```sh
     pip install textblob
     ```
